@@ -66,8 +66,7 @@
 
 #### 📟 **Parking-lot System with FPGA**  [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/FrankSav80/parking_lot_system_FPGA)
 > *VHDL, FPGA, Quartus PRIME*  
-- w  
-- w
+- Implemented a **Mealy finite state machine** controlling sensors, LEDs, servo motor, and buzzer on the FPGA board.  
 
 ---
 
