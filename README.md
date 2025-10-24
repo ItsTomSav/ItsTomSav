@@ -59,7 +59,7 @@
 - Simulated **UAV missions** for urban sensing and dataset generation.  
 - Automated **traffic and environment population** via Python scripts.
 
-#### 🪛 **Robotic Gripper Design**  
+#### 🪛 **Robotic Gripper Design** [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/ItsTomSav/gear_gripper_solidworks)
 > *SolidWorks, Motion Analysis*  
 - Modeled a **precision robotic gripper** ensuring stable object grasp.  
 - Verified design with **static and kinematic analyses**.
