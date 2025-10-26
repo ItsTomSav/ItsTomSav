@@ -66,7 +66,13 @@
 
 #### 📟 **Parking-lot System with FPGA**  [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/FrankSav80/parking_lot_system_FPGA)
 > *VHDL, FPGA, Quartus PRIME*  
-- Implemented a **Mealy finite state machine** controlling sensors, LEDs, servo motor, and buzzer on the FPGA board.  
+- Implemented a **Mealy finite state machine** controlling sensors, LEDs, servo motor, and buzzer on the FPGA board.
+
+#### 🎮 **Jumping Crash – 3D Platform Game** [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/ItsTomSav/jumping_crash_platform_game)
+> *Unity3D, C#, Blender, Audio Mixer*  
+- Developed a **3D platformer game** inspired by *Crash Bandicoot* and *Super Mario 64*.  
+- Implemented **C# gameplay scripts**, **UI system**, and **dynamic audio management**.  
+- Designed interactive levels with **physics-based obstacles** and **modular game structure**.
 
 ---
 
