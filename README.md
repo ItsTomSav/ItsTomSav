@@ -42,7 +42,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🦾 **Master Thesis: Trajectory Tracking for a Collaborative Robot**    
+#### 🦾 **Master Thesis: Trajectory Tracking for a Collaborative Robot** [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/ItsTomSav/os_controller_cobot_slam)
 > *C++, ROS2, MATLAB, Gazebo, MoveIt*  
 - Designed a **custom operational-space controller** in C++ integrated with ROS2.  
 - Implemented **SLAM-based trajectory tracking** in uncertain environments.  
