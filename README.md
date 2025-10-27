@@ -54,7 +54,7 @@
 - Implemented **joint-space** and **operational-space control** strategies.  
 - Compared decentralized vs centralized schemes.
 
-#### 🚁 **Urban Drone Simulation**  
+#### 🚁 **Urban Drone Simulation** [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20Project-GitHub-green?style=flat-square&logo=github)](https://github.com/FrankSav80/drone_sim_rec_carla)
 > *Python, ROS, Docker, CarlaSimulator*  
 - Simulated **UAV missions** for urban sensing and dataset generation.  
 - Automated **traffic and environment population** via Python scripts.
